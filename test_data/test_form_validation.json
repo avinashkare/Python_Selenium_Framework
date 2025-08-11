@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "firstname": "John",
+      "middle_name": "Doe",
+      "lastname": "Smith",
+      "email": "john.doe@example.com",
+      "password": "securePassword123",
+      "address": "1234 Main St",
+      "city": "New York",
+      "state": "NY",
+      "pincode": "10001"
+    },
+    {
+      "firstname": "Alice",
+      "middle_name": "Marie",
+      "lastname": "Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "password456",
+      "address": "5678 Oak St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "pincode": "90001"
+    }
+  ]
+}
