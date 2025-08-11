@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# pytest cache
+.pytest_cache/
+
+# HTML reports
+reports/
+tests/reports
+**/reports/
+
+# Logs
+*.log
