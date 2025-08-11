@@ -101,4 +101,3 @@ The `pytest_runtest_makereport` hook in `conftest.py` captures screenshots on fa
 
 ---
 **Author:** Avinash Kare
-**GitHub:** [Python_Selenium_Framework](https://github.com/avinashkare/Python_Selenium_Framework)
